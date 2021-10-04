@@ -2,8 +2,4 @@ zdy
 <<<<<<< HEAD
 zy2
 bbb
-=======
-zdiy2
-
-1
->>>>>>> 775c282a261fb32f7620746e7fded45dbda6a8e7
+1489
